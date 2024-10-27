@@ -1,5 +1,5 @@
 
-# End-to-End Machine Learning Model Deployment and Monitoring
+# End-to-End Machine Learning Model
 
 ## Overview
 This project covers a complete machine learning workflow, from data processing to deployment and monitoring.
